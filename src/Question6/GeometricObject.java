@@ -7,7 +7,7 @@ package Question6;
 
 /**
  *
- * @author 16055
+ * @author Venkateswararao Gadde
  */
     public abstract class GeometricObject {
         private boolean isFilled;

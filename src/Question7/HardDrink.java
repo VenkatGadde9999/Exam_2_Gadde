@@ -7,7 +7,7 @@ package Question7;
 
 /**
  *
- * @author 16055
+ * @author  Venkateswararao Gadde
  */
 public enum HardDrink {
     MANSSIONHOUSE("ManssionHouse", "Balayya"), JAMESON("Jameson", "Venkat");

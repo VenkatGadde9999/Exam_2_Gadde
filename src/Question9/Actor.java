@@ -7,7 +7,7 @@ package Question9;
 
 /**
  *
- * @author 16055
+ * @author  Venkateswararao Gadde
  */
 public interface Actor {
     

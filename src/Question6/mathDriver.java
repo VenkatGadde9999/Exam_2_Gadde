@@ -7,7 +7,7 @@ package Question6;
 import java.util.Scanner;
 /**
  *
- * @author 16055
+ * @author  Venkateswararao Gadde
  */
 public class mathDriver {
 

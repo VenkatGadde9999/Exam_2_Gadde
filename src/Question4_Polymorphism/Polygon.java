@@ -7,7 +7,7 @@ package Question4_Polymorphism;
 
 /**
  *
- * @author 16055
+ * @author  Venkateswararao Gadde
  */
 public class Polygon {
     public void render() {

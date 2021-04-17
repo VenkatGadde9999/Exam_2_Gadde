@@ -7,7 +7,7 @@ package Question4_Inheritance;
 
 /**
  *
- * @author 16055
+ * @author  Venkateswararao Gadde
  */
 public class KGF2 extends KGF {
 

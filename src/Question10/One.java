@@ -7,7 +7,7 @@ package Question10;
 
 /**
  *
- * @author 16055
+ * @author  Venkateswararao Gadde
  */
 public class One {
     private int a;
